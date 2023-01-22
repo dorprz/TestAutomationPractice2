@@ -2,6 +2,9 @@ import org.junit.jupiter.api.Test;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
+//Git - system kontroli wersji
+//obietkowość java (teoria): klasa, interfejs, czym się rózni klasa abstrakcyjna od intersejsu
+// lokalizowanie lementów na stronie : XPath / css/ atrybut
 public class UltimateQATest {
     String projectLocation = System.getProperty("user.dir");
     WebDriver driver;
